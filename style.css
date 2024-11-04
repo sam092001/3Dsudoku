@@ -1,0 +1,17 @@
+body {
+    margin: 0.5;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+#info {
+    position: absolute;
+    top: 20z;
+    left: 40z;
+    color: #f22121;
+    z-index: 5;
+}
+
+canvas {
+    display: block;
+}
